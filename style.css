@@ -1,0 +1,46 @@
+body {
+    background-image: url(background.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    color: azure;
+}
+
+header {
+    background-color: rgb(72, 72, 78);
+    color: rgb(255, 255, 255);
+    border-radius: 25%;
+    margin: 0;
+    height: 15%;
+    display: flex;
+    align-items: center;
+    padding: 0 20px;
+
+    button{
+    
+    background-color: transparent;
+    border-color: transparent;
+    padding: 5px;
+    margin: 0 20px;
+    font-family: 'Perpetua';
+    font-size: 20px;
+    color: azure;
+    border-radius: 50%;
+}
+
+button:hover {
+    background-color: rgb(153, 161, 168);
+    color: brown;
+    font-size: 25px;
+}
+
+img{
+   
+margin: 0% 0%;
+height: 50px;
+width: 50px;
+margin-left: 5%;
+}
+
+}
+
